@@ -12,10 +12,10 @@ Visit https://movie-vue-gamma.vercel.app/
 ![2](./screenshots/movievue4.gif)
 <br />
 3. My Collection
-![2](./screenshots/movievue2.gif)
+![3](./screenshots/movievue2.gif)
 <br />
 4. Edit Form
-![2](./screenshots/movievue3.png)
+![4](./screenshots/movievue3.png)
 <br />
 
 ### Set the token
