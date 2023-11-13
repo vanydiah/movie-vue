@@ -8,12 +8,15 @@ Visit https://movie-vue-gamma.vercel.app/
 1. Homepage
 ![1](./screenshots/movievue1.png)
 <br />
+
 2. Search
 ![2](./screenshots/movievue4.gif)
 <br />
+
 3. My Collection
 ![3](./screenshots/movievue2.gif)
 <br />
+
 4. Edit Form
 ![4](./screenshots/movievue3.png)
 <br />
