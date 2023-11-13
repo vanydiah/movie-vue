@@ -1,6 +1,9 @@
 # MovieVue
 A Movie Website using Vue and Quasar with simple CRUD
 
+## Demo
+Visit https://movie-vue-gamma.vercel.app/
+
 ### Screenshots
 1. Homepage
 ![1](./screenshots/movievue1.png)
