@@ -61,7 +61,7 @@ module.exports = configure((/* ctx */) => ({
     },
 
     vueRouterMode: 'history', // available values: 'hash', 'history'
-    env: { TOKEN: process.env.TOKEN },
+    env: { TOKEN: 'd9850ddd27ee222e1f9affb9cd808a52' },
     // vueRouterBase,
     // vueDevtools,
     // vueOptionsAPI: false,
